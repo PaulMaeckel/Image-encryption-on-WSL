@@ -1,6 +1,6 @@
 # Image-encryption-on-WSL
 
-This project demonstrates the encryption and decryption of an image using three encryption algorithms: Ascon, AES-256, and ChaCha20.
+This project demonstrates the encryption and decryption of an image (blue.tiff) using three encryption algorithms: Ascon, AES-256, and ChaCha20.
 
 
 # Algorithms Used 
