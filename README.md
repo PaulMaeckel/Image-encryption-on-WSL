@@ -11,7 +11,7 @@ This project demonstrates the encryption and decryption of an image using three 
 
 # Usage 
 - **Compilation**:  
-The project was compiled using gcc.
+The project was compiled using gcc.  
 Add -lssl and -lcrypto options to compile :
 ```sh
 
